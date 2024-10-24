@@ -1,20 +1,7 @@
-(base) PS C:\Users\DevHa> conda create -n pygame_env python = 3.7
+These are going to be the basic command line for the game that we gonna have
 
-InvalidMatchSpec: Invalid spec '=': Invalid spec '=': no package name found in 'None'
-
-(base) PS C:\Users\DevHa> conda create -n pygame_env python=3.7
-Channels:
- - defaults
-Platform: win-64
-Collecting package metadata (repodata.json): done
-Solving environment: done
-
-## Package Plan ##
-
-  environment location: C:\Users\DevHa\.conda\envs\pygame_env
-
-  added / updated specs:
-    - python=3.7
+# we have to install the conda for that please run the code below and make sure to indicate the python version
+conda create -n pygame_env python = 3.7
 
 
 The following packages will be downloaded:
@@ -50,6 +37,7 @@ The following NEW packages will be INSTALLED:
   wincertstore       pkgs/main/win-64::wincertstore-0.2-py37haa95532_2
 
 
+Make sure to press y in order to install the conda
 Proceed ([y]/n)? y
 
 
@@ -67,8 +55,13 @@ Executing transaction: done
 #
 #     $ conda deactivate
 
-(base) PS C:\Users\DevHa> conda activate pygame_env
-(pygame_env) PS C:\Users\DevHa> pip install pygame
+After Downloading the required packages make sure to activate the enviroment for that please run the following code below
+
+conda activate pygame_env
+
+1- for this step make sure that you install the pygame
+
+pip install pygame
 Collecting pygame
   Downloading pygame-2.6.1-cp37-cp37m-win_amd64.whl (10.8 MB)
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.8/10.8 MB 6.7 MB/s eta 0:00:00
