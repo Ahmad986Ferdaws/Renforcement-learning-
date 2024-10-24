@@ -11,6 +11,8 @@ pygame.init()
 font = pygame.font.Font('arial.ttf', 25)
 #font = pygame.font.SysFont('arial', 25)
 
+# class directions we have to declare the 4 direnctions, which is primarily focused on the movement of the game
+
 class Direction(Enum):
     RIGHT = 1
     LEFT = 2
