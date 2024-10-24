@@ -4,7 +4,10 @@ import random
 from enum import Enum
 from collections import namedtuple
 
+# in this part the pygame init function will start the which we already downloaded with the command line
 pygame.init()
+
+# in this part too, we will declare the font size and the type
 font = pygame.font.Font('arial.ttf', 25)
 #font = pygame.font.SysFont('arial', 25)
 
