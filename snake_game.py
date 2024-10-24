@@ -1,3 +1,4 @@
+# for this part of the game make sure to install the random commands to run the game
 import pygame
 import random
 from enum import Enum
