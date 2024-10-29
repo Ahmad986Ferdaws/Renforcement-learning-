@@ -4,7 +4,7 @@ These are going to be the basic command line for the game that we gonna have
 conda create -n pygame_env python = 3.7
 
 
-The following packages will be downloaded:aaaaaaaa
+The following packages will be downloaded:aaaaaaa
 
     package                    |            build
     ---------------------------|-----------------
