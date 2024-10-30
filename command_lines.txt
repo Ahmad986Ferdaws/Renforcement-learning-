@@ -36,7 +36,7 @@ The following NEW packages will be INSTALLED:
   wincertstore       pkgs/main/win-64::wincertstore-0.2-py37haa95532_2
 
 
-Make sure to press y in order to install the conda
+Make sure to press y in order to install the condaaaaaaaaaaaaaaa
 Proceed ([y]/n)? y
 
 
