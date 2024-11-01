@@ -1,4 +1,4 @@
-These are going to be the basic command line for the game that we gonna haveeeee
+These are going to be the basic command line for the game that we gonna haveeee
 
 # we have to install the conda for that please run the code below and make sure to indicate the python version
 conda create -n pygame_env python = 3.7
