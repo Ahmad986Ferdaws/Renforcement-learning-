@@ -21,7 +21,7 @@ The following packages will be downloaded:
     ------------------------------------------------------------
                                            Total:        29.2 MB
 
-The following NEW packages will be INSTALLED:aaaaaa
+The following NEW packages will be INSTALLED:aaaaa
 
   ca-certificates    pkgs/main/win-64::ca-certificates-2024.9.24-haa95532_0
   certifi            pkgs/main/win-64::certifi-2022.12.7-py37haa95532_0
