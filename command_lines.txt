@@ -53,7 +53,7 @@ Executing transaction: done
 #
 #     $ conda deactivate
 
-After Downloading the required packages make sure to activate the enviroment for that please run the following code below
+After Downloading the required packages make sure to activate the enviroment for that please run the following code belowAAAAAAAA
 
 conda activate pygame_env
 
