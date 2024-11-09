@@ -39,7 +39,7 @@ Make sure to press y in order to install the conda
 Proceed ([y]/n)? y
 
 
-Downloading and Extracting Packages:aaa
+Downloading and Extracting Packages:aa
 
 Preparing transaction: done
 Verifying transaction: done
