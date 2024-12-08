@@ -2,7 +2,7 @@
 import pygame
 import random
 from enum import Enum
-from collections import namedtuple
+from collections import namedtuplee
 
 # in this part the pygame init function will start the which we already downloaded with the command line
 pygame.init()
