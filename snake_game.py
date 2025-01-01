@@ -31,6 +31,7 @@ BLACK = (0,0,0)
 BLOCK_SIZE = 20
 SPEED = 20
 
+
 class SnakeGame:
     
     def __init__(self, w=640, h=480):
@@ -75,6 +76,8 @@ class SnakeGame:
                     self.direction = Direction.UP
                 elif event.key == pygame.K_DOWN:
                     self.direction = Direction.DOWN
+                else:
+                    return Error
         
         # 2. move
         self._move(self.direction) # update the head
