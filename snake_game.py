@@ -4,7 +4,7 @@ import random
 from enum import Enum
 from collections import namedtuplee
 
-# in this part the pygame init function will start the which we already downloaded with the command line
+# in this part the pygame init function will start the which we already downloaded with the command lines
 pygame.init()
 
 # in this part too, we will declare the font size and the type
