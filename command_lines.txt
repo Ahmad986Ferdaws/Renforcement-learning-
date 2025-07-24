@@ -39,7 +39,7 @@ Make sure to press y in order to install the cond
 Proceed ([y]/n)? y
 
 
-Downloading and Extracting Packages:aaaa
+Downloading and Extracting Packages:aaa
 
 Preparing transaction: done
 Verifying transaction: done
